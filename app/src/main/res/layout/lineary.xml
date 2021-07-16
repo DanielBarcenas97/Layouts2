@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="100dp"
+        android:text="premium"
+        android:textStyle="bold"
+        android:textSize="30sp">
+
+    </TextView>
+
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/premium">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="Likes y mensajes ilimitados"
+        android:textStyle="bold"
+        android:textSize="20sp">
+
+    </TextView>
+
+    <Button
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+        android:text="premium"
+        android:textSize="20dp"
+        android:backgroundTint="@color/white"
+        android:textColor="#AA2B49">
+
+    </Button>
+
+    <Button
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="ghost"
+        android:textSize="20dp"
+        android:backgroundTint="@color/white"
+        android:textColor="#AA2B49"
+        android:textStyle="bold">
+
+    </Button>
+
+    <Button
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="vip"
+        android:textSize="20dp"
+        android:backgroundTint="@color/white"
+        android:textColor="#AA2B49"
+        android:cornerRadius="50dp">
+
+    </Button>
+
+    <Button
+        android:layout_width="279dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="70dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="obtener"
+        android:textSize="20dp"
+        android:backgroundTint="@color/white"
+        android:textColor="#AA2B49">
+
+    </Button>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="30dp"
+        android:text="Después"
+        android:textSize="20sp">
+
+    </TextView>
+
+
+
+
+</LinearLayout>
